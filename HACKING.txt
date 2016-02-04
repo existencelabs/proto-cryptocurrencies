@@ -1,0 +1,6 @@
+Contributing to this project
+============================
+Syntax of this file: reStructuredText.
+
+This project contains prototypes. You are free to use any coding style you want
+and merge branches, etc.

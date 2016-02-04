@@ -1,0 +1,11 @@
+*.pyc
+build/
+*~
+.*.swp
+.DS_Store
+*/_trial_temp
+.~lock.*.odg#
+*.odg.cpgz
+*.dia.autosave
+.~lock.*.docx#
+nohup.out
